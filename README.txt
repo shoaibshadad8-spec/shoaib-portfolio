@@ -15,6 +15,7 @@ Files:
 - shoaib-profile.png
 
 Featured live projects:
+https://shoaibshadad8-spec.github.io/shoaib-portfolio/
 - https://shoaibshadad8-spec.github.io/al-nafha-al-nourania/
 - https://shoaibshadad8-spec.github.io/car-agency-website/
 
